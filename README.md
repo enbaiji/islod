@@ -1,3 +1,5 @@
 # ISLOD
-Inter-satellite link orbit determination.
+Inter-Satellite Link Orbit Determination.
+
+Quick Start:
 Replace folders to your existing "HALO" folder.
